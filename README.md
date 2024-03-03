@@ -1,4 +1,4 @@
-Two-Sample Tests in Python
+Two-Sample Tests Non-Parametric in Python
 
 This repository contains a comprehensive report on various two-sample tests implemented using Python. The report covers a wide range of statistical tests, including parametric and non-parametric methods, along with their interpretations and visualizations.
 
